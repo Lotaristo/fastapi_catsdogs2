@@ -1,0 +1,1 @@
+# https://www.kaggle.com/code/yonkotoshiro/cats-dogs-classification-with-cnn - Нотбук на Каггле с моделью, используемой для обученья
